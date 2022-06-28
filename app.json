@@ -1,5 +1,5 @@
 {
-  "name": "X-URL-Uploader",
+  "name": "Pewer",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [
     "telegram",
@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/xurluploaderbot",
-  "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/X-URL-Uploader",
+  "success_url": "https://t.me/pereza_Bot",
+  "website": "https://github.com/",
+  "repository": "https://github.com/rena0alpha/Pewer",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
